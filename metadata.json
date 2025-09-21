@@ -1,0 +1,5 @@
+{
+  "name": "French Flashcards AI",
+  "description": "An AI-powered web application that generates French vocabulary flashcards to help users learn the language. Select a category and difficulty level, and let the AI create a custom set of words for you to study.",
+  "requestFramePermissions": []
+}
